@@ -9,7 +9,7 @@
 <body>
  <h1>CRUD Operations in PHP</h1>
     <div class="navbar">
-        <a href="add.php">Add Record</a>
+        <a href="index.php">Add Record</a>
         <a href="find.php">Find Record</a>
         <a href="update.php">Update Record</a>
         <a href="delete.php">Delete Record</a>
